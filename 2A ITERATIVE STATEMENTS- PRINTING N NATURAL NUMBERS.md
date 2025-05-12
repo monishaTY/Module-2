@@ -9,17 +9,11 @@ To write a Python Program to print numbers range from M to N (including M and N 
 ###  Algorithm
 
 1.Start
-
 2.Input the starting number M
-
 3.Input the ending number N
-
 4.Repeat the following steps from i = M to i = N:
-
 5.Print the value of i
-
 6.Increment i by 1
-
 7.End
 
 ###  Program
