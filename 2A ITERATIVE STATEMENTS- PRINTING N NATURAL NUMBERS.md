@@ -34,7 +34,8 @@ print(i)
 ```
 ### OUTPUT
 ```
-[image](https://github.com/user-attachments/assets/25e69526-30ca-4a9c-8c3a-11f73ed286e5)
+![Screenshot 2025-04-30 090458](https://github.com/user-attachments/assets/8d4c138f-27d5-431a-a4b6-e15c1902f4af)
+
 
 
 ```
