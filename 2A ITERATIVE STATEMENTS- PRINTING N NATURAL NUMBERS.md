@@ -34,7 +34,8 @@ print(i)
 ```
 ### OUTPUT
 ```
-![image](https://github.com/user-attachments/assets/ebd51115-df2c-42ea-9e54-9e914dbb500b)
+[image](https://github.com/user-attachments/assets/25e69526-30ca-4a9c-8c3a-11f73ed286e5)
+
 
 ```
 ### RESULT
