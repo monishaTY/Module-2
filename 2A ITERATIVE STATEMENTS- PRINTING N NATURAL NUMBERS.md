@@ -3,9 +3,6 @@
 
 ###  Aim
 To write a Python Program to print numbers range from M to N (including M and N values)
-
----
-
 ###  Algorithm
 
 1.Start
@@ -24,6 +21,8 @@ b=int(input())
 for i in range(a,b+1):
 print(i)
 ```
+
+
 ### OUTPUT
 
 ![Screenshot 2025-04-30 090458](https://github.com/user-attachments/assets/8d4c138f-27d5-431a-a4b6-e15c1902f4af)
