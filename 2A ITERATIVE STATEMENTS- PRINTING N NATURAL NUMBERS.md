@@ -22,9 +22,7 @@ To write a Python Program to print numbers range from M to N (including M and N 
 
 7.End
 
----
-
-### 🧾 Program
+###  Program
 
 ```python
 a=int(input())
